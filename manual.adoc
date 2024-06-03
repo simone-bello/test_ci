@@ -24,6 +24,8 @@ link:#metadata-blocks[metadata blocks], link:#footnotes[footnotes],
 link:#citations[citations], link:#math[math], and much more. See below
 under link:#pandocs-markdown[Pandoc’s Markdown].
 
+ciao
+
 Pandoc has a modular design: it consists of a set of readers, which
 parse text in a given format and produce a native representation of the
 document (an _abstract syntax tree_ or AST), and a set of writers, which
